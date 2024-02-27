@@ -21,9 +21,10 @@ Ensure Python 3.6 or higher is installed on your computer. Clone this repository
 
 ### 步骤 | Steps:
 
-1. 克隆仓库:
-2. 进入克隆的仓库:
-3. 安装依赖项:
+1. **克隆仓库:** | **Clone the repository:**
+2. **进入克隆的仓库:** | **Navigate to the cloned repository:**
+3. **安装依赖项:** | **Install dependencies:**
+
 
 
 ## 快速开始 | Quick Start
